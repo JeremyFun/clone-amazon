@@ -58,3 +58,8 @@
 .header__basketCount {
     margin: 0 10px;
 }
+
+.link__container {
+    text-decoration: none;
+    color: #ffffff;
+}
